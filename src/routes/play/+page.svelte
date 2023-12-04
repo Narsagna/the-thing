@@ -109,10 +109,6 @@
     padding: 24px;
     gap: 10px;
   }
-  .controlsContainer {
-    display: flex;
-    align-items: center;
-  }
 
   .mainContainer button {
     background-color: #016df9;
